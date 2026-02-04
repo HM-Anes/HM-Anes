@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I’m Hammouti Anes 👋
 
-<!--
-**HM-Anes/HM-Anes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m passionate about **web development** and creating **beautiful, functional websites**.  
+I love spending a lot of time **creating, improving, and maintaining websites**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 My Projects
+
+- [HTML & CSS Template 1 – Leon PSD Agency](https://hm-anes.github.io/HTML-CSS-template-1/)  
+  A clean and responsive template built from a PSD design.
+
+*(More projects coming soon!)*
+
+---
+
+## 🛠 Skills
+
+- **Frontend:** HTML, CSS, JavaScript (in progress)  
+- **Tools:** Git, GitHub, VS Code, Linux  
+- **Other:** Responsive design
+
+---
+
+## 📫 Contact Me
+
+- GitHub: [@HM-Anes](https://github.com/HM-Anes)  
+- Email: hammoutianes678@gmail.com  
+
+---
+
+> "Coding is not just a skill, it’s an art."

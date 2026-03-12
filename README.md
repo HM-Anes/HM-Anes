@@ -23,7 +23,3 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,linux,bash" />
 </p>
-<hr />
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=HM-Anes&color=006666&style=flat" />
-</p>

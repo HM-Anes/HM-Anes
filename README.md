@@ -1,10 +1,18 @@
 <h1 align="center">Hi 👋, I'm Hammouti Anes</h1>
 <h3 align="center"><i>A passionate <ins>frontend</ins> developer from Algeria</i></h3>
 
-- 🔭 I’m currently working on [Portfolio-Test-Project](https://hm-anes.github.io/Portfolio-Test-Project/)
+- 🔭 I’m currently working on <ins>**Portfolio-Test-Project**</ins>
+  - 🔗 Live Demo: [Portfolio-Test-Project](https://hm-anes.github.io/Portfolio-Test-Project/)
+  - 📂 Repository: [Repository](https://github.com/HM-Anes/Portfolio-Test-Project)
   
-- 🤝 Collaborating on [HTML-CSS-template-3](https://hm-anes.github.io/HTML-CSS-template-3/)
-
+- 🤝 Collaborating on <ins>**HTML-CSS-template-3**</ins>
+  - 🔗 Live Demo: [HTML-CSS-template-3](https://hm-anes.github.io/HTML-CSS-template-3/)
+  - 📂 Repository: [Repository](https://github.com/HM-Anes/HTML-CSS-template-3)
+ 
+- 📌 Previous Project <ins>**HTML-CSS-template-2**</ins>
+  - 🔗 Live Demo: [HTML-CSS-template-2](https://hm-anes.github.io/HTML-CSS-template-2/)
+  - 📂 Repository: [Repository](https://github.com/HM-Anes/HTML-CSS-template-2)
+ 
 - 🌱 I’m currently learning <ins>**JavaScript**</ins>
 
 - 👨‍💻 All of my projects are available at [https://github.com/HM-Anes?tab=repositories](https://github.com/HM-Anes?tab=repositories)

@@ -17,22 +17,23 @@
 - 🔗 Live Demo: [HTML-CSS-template-3](https://hm-anes.github.io/HTML-CSS-template-3/)
 - 📂 Repository: [Repository](https://github.com/HM-Anes/HTML-CSS-template-3)
 
-<hr />
+<br/>
 
 ## 🌱 Currently Learning
 React
 
-<hr />
+<br/>
 
 
 ## 👨‍💻 More Projects
 All of my projects are available at [github.com/HM-Anes?tab=repositories](https://github.com/HM-Anes?tab=repositories)
 
-<hr />
+<br/>
 
 ## 💬 Ask Me About
 HTML, CSS, JavaScript
-<hr />
+
+<br/>
 
 ## 📫 How to Reach Me
 <p align="center">
@@ -44,7 +45,7 @@ HTML, CSS, JavaScript
 </a>
 </p>
 
-<hr />
+<br/>
 
 ## 🧰 Languages and Tools
 

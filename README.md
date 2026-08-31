@@ -46,6 +46,7 @@ HTML, CSS, JavaScript
 
 <hr />
 ## 🧰 Languages and Tools
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,linux,bash" />
 </p>

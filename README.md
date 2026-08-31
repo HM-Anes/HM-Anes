@@ -45,6 +45,7 @@ HTML, CSS, JavaScript
 </p>
 
 <hr />
+
 ## 🧰 Languages and Tools
 
 <p align="left">

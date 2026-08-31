@@ -1,25 +1,40 @@
 <h1 align="center">Hi 👋, I'm Hammouti Anes</h1>
 <h3 align="center"><i>A passionate <ins>frontend</ins> developer from Algeria</i></h3>
 
-- 🔭 I’m currently working on <ins>**Portfolio-Test-Project**</ins>
-  - 🔗 Live Demo: [Portfolio-Test-Project](https://hm-anes.github.io/Portfolio-Test-Project/)
-  - 📂 Repository: [Repository](https://github.com/HM-Anes/Portfolio-Test-Project)
-  
-- 🤝 Collaborating on <ins>**HTML-CSS-template-3**</ins>
-  - 🔗 Live Demo: [HTML-CSS-template-3](https://hm-anes.github.io/HTML-CSS-template-3/)
-  - 📂 Repository: [Repository](https://github.com/HM-Anes/HTML-CSS-template-3)
- 
-- 📌 Previous Project <ins>**HTML-CSS-template-2**</ins>
-  - 🔗 Live Demo: [HTML-CSS-template-2](https://hm-anes.github.io/HTML-CSS-template-2/)
-  - 📂 Repository: [Repository](https://github.com/HM-Anes/HTML-CSS-template-2)
- 
-- 🌱 I’m currently learning <ins>**JavaScript**</ins>
+<hr />
 
-- 👨‍💻 All of my projects are available at [https://github.com/HM-Anes?tab=repositories](https://github.com/HM-Anes?tab=repositories)
+## 🚀 Projects
 
-- 💬 Ask me about <ins>**Html & Css**</ins>
+**📌 Current Project — weather-app**
+- 🔗 Live Demo: [weather-app](https://hm-anes.github.io/weather-app/)
+- 📂 Repository: [Repository](https://github.com/HM-Anes/weather-app)
 
-- 📫 How to reach me
+**🔭 Last Project — double-slider-sign-in-up-form**
+- 🔗 Live Demo: [double-slider-sign-in-up-form](https://hm-anes.github.io/double-slider-sign-in-up-form/)
+- 📂 Repository: [Repository](https://github.com/HM-Anes/double-slider-sign-in-up-form)
+
+**🤝 Collaborating on — HTML-CSS-template-3**
+- 🔗 Live Demo: [HTML-CSS-template-3](https://hm-anes.github.io/HTML-CSS-template-3/)
+- 📂 Repository: [Repository](https://github.com/HM-Anes/HTML-CSS-template-3)
+
+<hr />
+
+## 🌱 Currently Learning
+React
+
+<hr />
+
+
+## 👨‍💻 More Projects
+All of my projects are available at [github.com/HM-Anes?tab=repositories](https://github.com/HM-Anes?tab=repositories)
+
+<hr />
+
+## 💬 Ask Me About
+HTML, CSS, JavaScript
+<hr />
+
+## 📫 How to Reach Me
 <p align="center">
 <a href="mailto:hamoutianes678@gmail.com">
     <img
@@ -28,8 +43,9 @@
     />
 </a>
 </p>
+
 <hr />
-<h3 align="left">🧰 Languages and Tools:</h3>
+## 🧰 Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,linux,bash" />
 </p>

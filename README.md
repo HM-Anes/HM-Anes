@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hammouti Anes</h1>
 <h3 align="center"><i>A passionate <ins>frontend</ins> developer from Algeria</i></h3>
 
----
+<br/>
 
 ## 🚀 Projects
 

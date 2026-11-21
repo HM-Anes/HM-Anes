@@ -3,18 +3,24 @@
 
 <br/>
 
-## 🚀 Projects
+# 🚀 Projects
 
 - **📌 Current Project - E-commerce**
     - [E-commerce](https://e-commerce-hmanes.vercel.app/)
 
+<hr/>
+
 - **🔭 Last Projects:**
+
     - **double-slider-sign-in-up-form**
         - 🔗 Live Demo: [weather-app](https://hm-anes.github.io/weather-app/)
         - 📂 Repository: [Repository](https://github.com/HM-Anes/weather-app)
+          
     - **weather-app**
         - 🔗 Live Demo: [double-slider-sign-in-up-form](https://hm-anes.github.io/double-slider-sign-in-up-form/)
         - 📂 Repository: [Repository](https://github.com/HM-Anes/double-slider-sign-in-up-form)
+
+<hr/>
 
 - **🤝 Collaborating on — HTML-CSS-template-3**
     - 🔗 Live Demo: [HTML-CSS-template-3](https://hm-anes.github.io/HTML-CSS-template-3/)

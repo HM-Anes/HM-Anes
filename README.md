@@ -45,20 +45,25 @@ Next.js
 
 <br/>
 
+# ⚙️ Tech Stack
+<br/>
+
 ### 💻 Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,py" />
 </p>
 
+
 ### 🛠️ Tools & Platforms
 <p align="left">
-  <img src="https://cdn.simpleicons.org/render/ffffff" height="42" />
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
+  <img src="https://cdn.simpleicons.org/render/ffffff" height="42" />
 </p>
+
 
 ### 🧰 Technologies & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=c,java,linux,bash,md" />
   <br/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" />

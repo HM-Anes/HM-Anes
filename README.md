@@ -5,7 +5,7 @@
 
 # 🚀 Projects
 
-- **📌 Current Project - E-commerce**
+- **📌 Current Project - E-commerce** *(In Process)*
     - [E-commerce](https://e-commerce-hmanes.vercel.app/) 
 
 <hr/>

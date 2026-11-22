@@ -6,19 +6,19 @@
 # 🚀 Projects
 
 - **📌 Current Project - E-commerce**
-    - [E-commerce](https://e-commerce-hmanes.vercel.app/)
+    - [E-commerce](https://e-commerce-hmanes.vercel.app/) 
 
 <hr/>
 
 - **🔭 Last Projects:**
 
-    - **double-slider-sign-in-up-form**
-        - 🔗 Live Demo: [weather-app](https://hm-anes.github.io/weather-app/)
-        - 📂 Repository: [Repository](https://github.com/HM-Anes/weather-app)
-          
-    - **weather-app**
+    - **double-slider-sign-in-up-form** *(for desktop screens only)*
         - 🔗 Live Demo: [double-slider-sign-in-up-form](https://hm-anes.github.io/double-slider-sign-in-up-form/)
         - 📂 Repository: [Repository](https://github.com/HM-Anes/double-slider-sign-in-up-form)
+          
+    - **weather-app**
+        - 🔗 Live Demo: [weather-app](https://hm-anes.github.io/weather-app/)
+        - 📂 Repository: [Repository](https://github.com/HM-Anes/weather-app)
 
 <hr/>
 
@@ -50,7 +50,7 @@ Next.js
 
 ### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,bootstrap,py" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nextjs,bootstrap,py" />
 </p>
 
 
